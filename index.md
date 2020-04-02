@@ -5,9 +5,13 @@
 .tg .tg-w43s{font-weight:bold;font-size:12px;font-family:"Times New Roman", Times, serif !important;;text-align:left;vertical-align:top}
 .tg .tg-fia5{font-family:"Times New Roman", Times, serif !important;;text-align:left;vertical-align:top}
 </style>
-<h1>List of Proxy-Based Browsers</h1>
-<caption align="top"> <center> For proxy server class, HT = HTTP tunneling, TI = TLS interception, TI-X indicates variants of TI. Colored names are used to help indicate the proxy server class, and column 8 shows the shortened names used in the paper.</center></caption>
+<h1>Paper Title : When TLS Meets Proxy on Mobile </h1>
+<h2>Authors : Joyanta Debnath (The University of Iowa), Sze Yiu Chau (The Chinese University of Hong Kong,), and Omar Chowdhury (The University of Iowa) </h2>
+<h2>Conference : ACNS 2020</h2>
 
+<h3>List of Proxy-Based Browsers</h3>
+<caption align="top"> <center> For proxy server class, HT = HTTP tunneling, TI = TLS interception, TI-X indicates variants of TI. Colored names are used to help indicate the proxy server class, and column 8 shows the shortened names used in the paper.</center></caption>
+<br/>
 <table class="tg">
   <tr>
     <th class="tg-w43s">No.</th>
@@ -379,11 +383,11 @@
     <td class="tg-fia5">No</td>
     <td class="tg-fia5">Tunnel Browser</td>
   </tr>
- 
- <caption align="bottom"> <center> ‡ These apps use a proprietary protocol for the browser--proxy  connection. It is effectively a variant of TLS interception with TLS_CP replaced by an alternative of TLS.
- # Similar to TI-P ‡ but the browser-proxy connection uses QUIC.
- † TLS is used only for the connection between the proxy and Web servers. It is effectively a variant of TLS interception with TLS_CP replaced by plain HTTP+TCP. 
- * These apps strip the use of TLS (for both sides of the proxy) despite explicit user requests. It is effectively a combination of interception with TLS/SSL stripping.
+ <br/>
+ <caption align="bottom"> <center> ‡ These apps use a proprietary protocol for the browser--proxy  connection. It is effectively a variant of TLS interception with TLS_CP replaced by an alternative of TLS. <br/>
+ # Similar to TI-P ‡ but the browser-proxy connection uses QUIC.<br/>
+ † TLS is used only for the connection between the proxy and Web servers. It is effectively a variant of TLS interception with TLS_CP replaced by plain HTTP+TCP. <br/>
+ * These apps strip the use of TLS (for both sides of the proxy) despite explicit user requests. It is effectively a combination of interception with TLS/SSL stripping. <br/>
  Φ By default, this browser app uses 'Automatic' mode which activates the proxy server dynamically to adjust for better user experience.</center></caption>
  
 </table>
