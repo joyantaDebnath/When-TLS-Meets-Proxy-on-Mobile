@@ -5,6 +5,13 @@
 .tg .tg-w43s{font-weight:bold;font-size:12px;font-family:"Times New Roman", Times, serif !important;;text-align:left;vertical-align:top}
 .tg .tg-fia5{font-family:"Times New Roman", Times, serif !important;;text-align:left;vertical-align:top}
 </style>
+<h1>List of Proxy-Based Browsers</h1>
+<caption>
+For proxy class, $HT$ = HTTP 
+ tunneling; $TI$ = TLS interception; TI-X indicates variants of TI. Colored names are 
+ used to help indicate the 
+ proxy class, and column 8 shows the shortened names, both of which
+ are reused in later sections.</caption>
 <table class="tg">
   <tr>
     <th class="tg-w43s">No.</th>
@@ -376,4 +383,22 @@
     <td class="tg-fia5">No</td>
     <td class="tg-fia5">Tunnel Browser</td>
   </tr>
+    $\ddagger$ These apps use a \emph{proprietary} protocol for the browser--proxy 
+  connection. It is effectively a variant of TLS interception 
+with $TLS_{CP}$ replaced by
+% with one side 
+% using 
+ an alternative of TLS. \\
+ $\#$ Similar to TI-P~$\ddagger$, but the browser--proxy 
+   connection uses QUIC. \\
+ $\dagger$ TLS is used only for the connection 
+ between the proxy and Web servers. It is effectively a variant of TLS interception 
+ with 
+ $TLS_{CP}$ replaced by plain HTTP+TCP. \\ 
+ $*$ These apps \emph{strip} the use of TLS (for both sides of the proxy) despite 
+ explicit user requests.
+% use a proprietary protocol for the connection between 
+ It is effectively a combination of interception with TLS/SSL stripping.\\
+ $\Phi$ By default, this browser app uses `Automatic' mode which 
+ activates the proxy server dynamically to adjust for better user experience.
 </table>
