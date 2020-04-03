@@ -21,6 +21,7 @@
 <h3>Title of the Paper :</h3> <i> When TLS Meets Proxy on Mobile </i>
 <h3>Authors : </h3> <i> Joyanta Debnath (The University of Iowa), Sze Yiu Chau (The Chinese University of Hong Kong,), and Omar Chowdhury (The University of Iowa) </i> 
 <h3>Conference : </h3> <i> ACNS 2020 </i>
+<p> </p>
 <h4>List of Proxy-Based Browsers</h4>
 <caption align="top"> <center> For proxy server class, HT = HTTP tunneling, TI = TLS interception, TI-X indicates variants of TI. Colored names are used to help indicate the proxy server class, and column 8 shows the shortened names used in the paper.</center></caption>
 <table class="tg">
