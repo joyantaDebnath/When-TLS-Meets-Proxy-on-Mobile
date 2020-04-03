@@ -26,7 +26,7 @@
 <br />
 <br />
 <h4>List of Proxy-Based Browsers</h4>
-<caption align="top"> <center> For proxy server class, HT = HTTP tunneling, TI = TLS interception, TI-X indicates variants of TI. Colored names are used to help indicate the proxy server class, and column 8 shows the shortened names used in the paper.</center></caption>
+<caption align="top">  For proxy server class, HT = HTTP tunneling, TI = TLS interception, TI-X indicates variants of TI. Colored names are used to help indicate the proxy server class, and column 8 shows the shortened names used in the paper.</caption>
 <table class="tg">
   <tr>
     <th class="tg-8ua8">No.</th>
@@ -399,9 +399,9 @@
     <td class="tg-mf5t">Tunnel Browser</td>
   </tr>
   <br/>
- <caption align="bottom"> <center> ‡ These apps use a proprietary protocol for the browser--proxy  connection. It is effectively a variant of TLS interception with TLS_CP replaced by an alternative of TLS. <br/>
+ <caption align="bottom"> ‡ These apps use a proprietary protocol for the browser--proxy  connection. It is effectively a variant of TLS interception with TLS<sub>CP</sub> replaced by an alternative of TLS. <br/>
  # Similar to TI-P ‡ but the browser-proxy connection uses QUIC.<br/>
- † TLS is used only for the connection between the proxy and Web servers. It is effectively a variant of TLS interception with TLS_CP replaced by plain HTTP+TCP. <br/>
+ † TLS is used only for the connection between the proxy and Web servers. It is effectively a variant of TLS interception with TLS<sub>CP</sub> replaced by plain HTTP+TCP. <br/>
  * These apps strip the use of TLS (for both sides of the proxy) despite explicit user requests. It is effectively a combination of interception with TLS/SSL stripping. <br/>
- Φ By default, this browser app uses 'Automatic' mode which activates the proxy server dynamically to adjust for better user experience.</center></caption>
+ Φ By default, this browser app uses 'Automatic' mode which activates the proxy server dynamically to adjust for better user experience.</caption>
 </table>
