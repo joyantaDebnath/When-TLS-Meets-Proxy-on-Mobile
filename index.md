@@ -5,7 +5,7 @@
 .tg .tg-w43s{font-weight:bold;font-size:12px;font-family:"Times New Roman", Times, serif !important;;text-align:left;vertical-align:top}
 .tg .tg-fia5{font-family:"Times New Roman", Times, serif !important;;text-align:left;vertical-align:top}
 </style>
-<h4>Paper Title :</h4> <i> When TLS Meets Proxy on Mobile </i>
+<h4>Title of the Paper :</h4> <i> When TLS Meets Proxy on Mobile </i>
 <h4>Authors : </h4> <i> Joyanta Debnath (The University of Iowa), Sze Yiu Chau (The Chinese University of Hong Kong,), and Omar Chowdhury (The University of Iowa) </i> 
 <h4>Conference : </h4> <i> ACNS 2020 </i>
 <h5>List of Proxy-Based Browsers</h5>
