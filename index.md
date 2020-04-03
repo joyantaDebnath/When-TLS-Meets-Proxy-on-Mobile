@@ -5,13 +5,12 @@
 .tg .tg-w43s{font-weight:bold;font-size:12px;font-family:"Times New Roman", Times, serif !important;;text-align:left;vertical-align:top}
 .tg .tg-fia5{font-family:"Times New Roman", Times, serif !important;;text-align:left;vertical-align:top}
 </style>
-<h3>Paper Title : When TLS Meets Proxy on Mobile </h3>
-<h4>Authors : Joyanta Debnath (The University of Iowa), Sze Yiu Chau (The Chinese University of Hong Kong,), and Omar Chowdhury (The University of Iowa) </h4>
-<h4>Conference : ACNS 2020</h4>
-
+<h4>Paper Title :</h4> <i> When TLS Meets Proxy on Mobile </i> </h4>
+<h4>Authors : </h4> <i> Joyanta Debnath (The University of Iowa), Sze Yiu Chau (The Chinese University of Hong Kong,), and Omar Chowdhury (The University of Iowa) </i> </h4>
+<h4>Conference : </h4> <i> ACNS 2020 </i></h4>
+</br> </br>
 <h5>List of Proxy-Based Browsers</h5>
 <caption align="top"> <center> For proxy server class, HT = HTTP tunneling, TI = TLS interception, TI-X indicates variants of TI. Colored names are used to help indicate the proxy server class, and column 8 shows the shortened names used in the paper.</center></caption>
-<br/>
 <table class="tg">
   <tr>
     <th class="tg-w43s">No.</th>
@@ -389,5 +388,4 @@
  † TLS is used only for the connection between the proxy and Web servers. It is effectively a variant of TLS interception with TLS_CP replaced by plain HTTP+TCP. <br/>
  * These apps strip the use of TLS (for both sides of the proxy) despite explicit user requests. It is effectively a combination of interception with TLS/SSL stripping. <br/>
  Φ By default, this browser app uses 'Automatic' mode which activates the proxy server dynamically to adjust for better user experience.</center></caption>
- 
 </table>
