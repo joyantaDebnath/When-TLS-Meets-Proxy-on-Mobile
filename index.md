@@ -26,7 +26,7 @@
 <br />
 <br />
 <h4>List of Proxy-Based Browsers</h4>
-<caption align="top">  For proxy server class, HT = HTTP tunneling, TI = TLS interception, TI-X indicates variants of TI. Colored names are used to help indicate the proxy server class, and column 8 shows the shortened names used in the paper.</caption>
+<caption align="top"><center>For proxy server class, HT = HTTP tunneling, TI = TLS interception, TI-X indicates variants of TI. Colored names are used to help indicate the proxy server class, and column 8 shows the shortened names used in the paper.</center></caption>
 <table class="tg">
   <tr>
     <th class="tg-8ua8">No.</th>
