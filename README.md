@@ -1,5 +1,5 @@
 #### Title : 
-When TLS Meets Proxy on Mobile
+[When TLS Meets Proxy on Mobile](https://link.springer.com/chapter/10.1007/978-3-030-57878-7_19)
 ##### Authors : 
 Joyanta Debnath (The University of Iowa), Sze Yiu Chau (The Chinese University of Hong Kong,), and Omar Chowdhury (The University of Iowa)
 ##### Conference : 
@@ -10,3 +10,31 @@ Increasingly more mobile browsers are developed to use proxies for traffic compr
 
 ##### Link to Experiments
 [Google Drive Link](https://drive.google.com/file/d/1v8cPBEGRJlyyv_1Y0D8MnYVJCdR5-5u_/view?usp=sharing)
+
+## Citation
+Please, use the following *bibtex* for citing this work.
+
+```
+@InProceedings{10.1007/978-3-030-57878-7_19,
+author="Debnath, Joyanta
+and Chau, Sze Yiu
+and Chowdhury, Omar",
+editor="Conti, Mauro
+and Zhou, Jianying
+and Casalicchio, Emiliano
+and Spognardi, Angelo",
+title="When TLS Meets Proxy on Mobile",
+booktitle="Applied Cryptography and Network Security",
+year="2020",
+publisher="Springer International Publishing",
+address="Cham",
+pages="387--407",
+isbn="978-3-030-57878-7"
+}
+```
+
+## Contributors
+Please, feel free to contact one of us if you have any questions.
+* [Joyanta Debnath](https://joyantadebnath.github.io/homepage/)
+* [Omar Chowdhury](https://www3.cs.stonybrook.edu/~omar/)
+* [Sze Yiu Chau](https://szeyiuchau.github.io/)
